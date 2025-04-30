@@ -1,0 +1,9 @@
+{
+	"name": "handsondatafactoryreshma001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1bee86bc-1a1a-465c-8c03-3ea6cb64371c",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
